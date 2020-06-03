@@ -1,7 +1,7 @@
 # 기본 HTML 및 HTML5 소개
 ## Basic HTML and HTML5
 ### 수업 목표 : HTML 요소를 사용하여 웹 컨텐츠에 구조와 의미를 부여하는 방법
-### 수업 주제
+### 수업 목차
 * Say Hello to HTML Elements
 * Headline with the h2 Element
 * Inform with the Paragraph Element
