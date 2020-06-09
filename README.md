@@ -36,7 +36,7 @@
 
 ---
 
-# Basic CSS(CSS )
+# Basic CSS(CSS 기초)
 ## 수업 목표 : CSS 스타일을 추가하여 간단한 스타일을 변경 / HTML 요소를 대상으로 지정한 다음 해당 요소에 다양한 속성을 적용
 ## 수업 목차
 * Introduction to Basic CSS
