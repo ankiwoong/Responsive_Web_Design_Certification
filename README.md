@@ -142,3 +142,31 @@
 * Learn How Bezier Curves Work
 * Use a Bezier Curve to Move a Graphic
 * Make Motion More Natural Using a Bezier Curve
+
+---
+
+# Applied Accessibility(접근성)
+## 수업 목표 : 적절한 마크업을 사용 / 텍스트 및 시각적 내용에 대한 텍스트 대안이 존재 / 키보드에 친숙한 쉽게 탐색할 수 있는 페이지 생성
+## 수업 목차
+* Add a Text Alternative to Images for Visually Impaired Accessibility
+* Know When Alt Text Should be Left Blank
+* Use Headings to Show Hierarchical Relationships of Content
+* Jump Straight to the Content Using the main Element
+* Wrap Content in the article Element
+* Make Screen Reader Navigation Easier with the header Landmark
+* Make Screen Reader Navigation Easier with the nav Landmark
+* Make Screen Reader Navigation Easier with the footer Landmark
+* Improve Accessibility of Audio Content with the audio Element
+* Improve Chart Accessibility with the figure Element
+* Improve Form Field Accessibility with the label Element
+* Wrap Radio Buttons in a fieldset Element for Better Accessibility
+* Add an Accessible Date Picker
+* Standardize Times with the HTML5 datetime Attribute
+* Make Elements Only Visible to a Screen Reader by Using Custom CSS
+* Improve Readability with High Contrast Text
+* Avoid Colorblindness Issues by Using Sufficient Contrast
+* Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
+* Give Links Meaning by Using Descriptive Link Text
+* Make Links Navigable with HTML Access Keys
+* Use tabindex to Add Keyboard Focus to an Element
+* Use tabindex to Specify the Order of Keyboard Focus for Several Elements
