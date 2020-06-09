@@ -170,3 +170,13 @@
 * Make Links Navigable with HTML Access Keys
 * Use tabindex to Add Keyboard Focus to an Element
 * Use tabindex to Specify the Order of Keyboard Focus for Several Elements
+
+---
+
+# Introduction to the Responsive Web Design Challenges(반응형 웹 디자인)
+## 수업 목표 : 다른 장치의 제약 조건에 반응하는 웹 콘텐츠를 설계하는 접근 / 다양한 스타일 규칙을 작성한 다음 페이지를 표시하는 장치에 따라 적용
+## 수업 목차
+* Create a Media Query
+* Make an Image Responsive
+* Use a Retina Image for Higher Resolution Displays
+* Make Typography Responsive
