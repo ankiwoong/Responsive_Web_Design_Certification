@@ -180,3 +180,26 @@
 * Make an Image Responsive
 * Use a Retina Image for Higher Resolution Displays
 * Make Typography Responsive
+
+---
+
+# CSS Flexbox(HTML 및 HTML5 기초)
+## 수업 목표 : flexbox를 사용하는 방법과 제공되는 다양한 레이아웃 옵션
+## 수업 목차
+* Use display: flex to Position Two Boxes
+* Add Flex Superpowers to the Tweet Embed
+* Use the flex-direction Property to Make a Row
+* Apply the flex-direction Property to Create Rows in the Tweet Embed
+* Use the flex-direction Property to Make a Column
+* Apply the flex-direction Property to Create a Column in the Tweet Embed
+* Align Elements Using the justify-content Property
+* Use the justify-content Property in the Tweet Embed
+* Align Elements Using the align-items Property
+* Use the align-items Property in the Tweet Embed
+* Use the flex-wrap Property to Wrap a Row or Column
+* Use the flex-shrink Property to Shrink Items
+* Use the flex-grow Property to Expand Items
+* Use the flex-basis Property to Set the Initial Size of an Item
+* Use the flex Shorthand Property
+* Use the order Property to Rearrange Items
+* Use the align-self Property
