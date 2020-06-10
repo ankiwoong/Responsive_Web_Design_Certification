@@ -183,7 +183,7 @@
 
 ---
 
-# CSS Flexbox(HTML 및 HTML5 기초)
+# CSS Flexbox(플렉스 박스)
 ## 수업 목표 : flexbox를 사용하는 방법과 제공되는 다양한 레이아웃 옵션
 ## 수업 목차
 * Use display: flex to Position Two Boxes
