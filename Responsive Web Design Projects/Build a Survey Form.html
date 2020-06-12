@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Build a Survey Form.css">
+    <title>Build a Survey Form</title>
+</head>
+
+<body>
+    <header>
+        <div>
+            <h1 id="title">Hello My Page</h1>
+            <p id="description">Create a New Account</p>
+        </div>
+    </header>
+
+    <main>
+        <form id="survey-form" method="GET" action="#">
+            <div class="name">
+                <label for="name">Name : </label>
+                <input type="text" name="name" id="name" placeholder="Your Name" required>
+            </div>
+
+            <div class="email">
+                <label for="email">Email : </label>
+                <input type="text" name="email" id="email" placeholder="Your Email" required>
+            </div>
+
+            <div class="number">
+                <label for="number">Phone : </label>
+                <input type="text" name="phone" id="number" placeholder="Your Phone Number" required>
+            </div>
+
+            <div class="month">
+                <label for="month">Education Hope Month</label>
+                <select id="dropdown">
+                    <option value="january">January</option>
+                    <option value="february">February</option>
+                    <option value="march">March</option>
+                    <option value="april">April</option>
+                    <option value="may">May</option>
+                    <option value="june">June</option>
+                    <option value="july">July</option>
+                    <option value="august">August</option>
+                    <option value="september">September</option>
+                    <option value="october">October</option>
+                    <option value="november">November</option>
+                    <option value="december">December</option>
+                </select>
+            </div>
+
+            <div class="gender">
+                <input id="gender-type-1" name="gender-type" type="radio" value="Male" />
+                <label for="gender-type-1" class="radio-label">Male</label>
+                <input id="gender-type-2" name="gender-type" type="radio" value="Female" />
+                <label for="gender-type-2" class="radio-label">Female</label>
+                <input id="gender-type-3" name="gender-type" type="radio" value="No-binary" />
+                <label for="gender-type-3" class="radio-label">No-binary</label>
+            </div>
+
+            <div class="robot">
+                <label class="checkbox-label" for="available">
+                    <input id="available" name="available" type="checkbox" value="is-available" />
+                    <span>I’m actually not a ROBOT</span>
+                </label>
+            </div>
+
+            <div>
+                <label>Comments:</label>
+                <textarea></textarea>
+            </div>
+
+            <div>
+                <input type="submit" value="Submit">
+            </div>
+        </form>
+    </main>
+
+    <footer>
+
+    </footer>
+
+</body>
+
+</html>
